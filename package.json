@@ -1,5 +1,18 @@
 {
   "dependencies": {
     "swahili-english-translator": "^1.0.3"
-  }
+  },
+  "name": "swahili-english-translator-example",
+  "description": "```\r https://github.com/Henryle-hd/swahili-english-translator.git",
+  "version": "1.0.0",
+  "main": "engToSw.js",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest index.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
